@@ -23,6 +23,7 @@
     "lint-sh": "shellcheck helpers/*.sh",
     "pretty-src-svg": "./helpers/pretty-src-svg.sh",
     "export-svg": "./helpers/export-svg.sh",
+    "copy-svg-to-friendly-names": "./helpers/copy-svg-friendly.sh",
     "export-png": "./helpers/export-png.sh",
     "export-pdf": "./helpers/export-pdf.sh",
     "export-zip": "./helpers/export-zip.sh",
